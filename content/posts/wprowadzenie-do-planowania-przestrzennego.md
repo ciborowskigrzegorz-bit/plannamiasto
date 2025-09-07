@@ -16,7 +16,7 @@ Planowanie przestrzenne to proces kształtowania przestrzeni miejskiej i wiejski
 1. **Ład przestrzenny** – dzięki planowaniu unikamy chaotycznej zabudowy, korków i braku przestrzeni publicznej.  
 2. **Zrównoważony rozwój** – dobre planowanie pozwala chronić środowisko, oszczędzać energię i ograniczać emisję zanieczyszczeń.  
 3. **Bezpieczeństwo mieszkańców** – planowanie dróg, chodników i przestrzeni publicznych zwiększa bezpieczeństwo pieszych i rowerzystów.  
-4. **Estetyka miasta** – spójna zabudowa, parki i place wpływają na wrażenia mieszkańców i turystów.  
+4. **Estetyka miasta** – spójna zabudowa, parki i place wpływają na wrażenia mieszkańców i turystów.
 
 ## Podstawowe zasady planowania przestrzennego
 
@@ -29,12 +29,12 @@ Planowanie przestrzenne to proces kształtowania przestrzeni miejskiej i wiejski
 
 - **Kopenhaga, Dania** – miasto przyjazne rowerzystom, z dużą ilością zieleni i przestrzeni publicznych.  
 - **Freiburg, Niemcy** – planowanie zrównoważonego transportu i osiedli energooszczędnych.  
-- **Wrocław, Polska** – rewitalizacja terenów poprzemysłowych i integracja przestrzeni publicznej z historią miasta.  
+- **Wrocław, Polska** – rewitalizacja terenów poprzemysłowych i integracja przestrzeni publicznej z historią miasta.
 
 ## Podsumowanie
 
-Planowanie przestrzenne to klucz do tworzenia miast przyjaznych dla mieszkańców, zrównoważonych i estetycznych. Każdy nowy projekt urbanistyczny powinien uwzględniać funkcjonalność, bezpieczeństwo, zieleń oraz estetykę, aby nasze miasta były miejscem, w którym chce się żyć.
+Planowanie przestrzenne to klucz do tworzenia miast przyjaznych dla mieszkańców, zrównoważonych i estetycznych. Każdy nowy projekt urbanistyczny powinien uwzględniać funkcjonalność, bezpieczeństwo, zieleń oraz estetykę.
 
 ---
 
-> W następnym wpisie omówimy **praktyczne narzędzia i technologie**, które wspierają planistów w tworzeniu lepszej przestrzeni miejskiej.
+> W następnym wpisie omówimy **praktyczne przykłady miast**, które wyróżniają się dobrym planowaniem przestrzennym.
