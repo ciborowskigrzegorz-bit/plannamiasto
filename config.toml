@@ -1,0 +1,4 @@
+baseURL = "https://www.plannamiasto.pl/"
+languageCode = "pl-pl"
+title = "Plan na Miasto"
+theme = "ananke"
